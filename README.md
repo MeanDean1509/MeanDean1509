@@ -3,7 +3,6 @@
 ## 🎓 About Me
 - 🎯 **IT Student** at Saigon University (2021-2025)
 - 📍 Based in **Ho Chi Minh City, Vietnam**
-- 🔍 Currently seeking **internship opportunities** in software development
 
 
 ## 💻 Tech Stack
